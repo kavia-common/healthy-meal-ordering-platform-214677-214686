@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/healthy-meal-ordering-platform-214677-214686/healthy_app_frontend/.dart_tool/flutter_build/fa2051b56c2145f177335fbe2ceb34f2/native_assets.json: 
