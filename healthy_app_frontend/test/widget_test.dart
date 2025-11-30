@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:healthy_app_frontend/main.dart';
 import 'package:healthy_app_frontend/screens/home_screen.dart';
+import 'package:healthy_app_frontend/services/auth_service.dart';
 
 void main() {
   testWidgets('Home screen renders and shows role selector', (WidgetTester tester) async {
